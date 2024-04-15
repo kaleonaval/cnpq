@@ -1,0 +1,206 @@
+ Data e hora informadas: 09/11/2022 15:00
+
+ Motor 1
+
+ Potência: 1331.87 kW
+ Rotação: 741.56 rpm
+ Consumo: 195.81 g/kWh
+ Trajetória: Em viagem no percurso3
+ Altura de Onda: 2.4 m
+ Velocidade de Vento: 4.5 m/s
+ Velocidade de Serviço: 10.66 nós
+
+ Análise
+
+ Nesta RPM (741.56 rpm), o motor deveria estar fornecendo 1421.52 kW de potência, com um consumo específico de 195.59 g/kwh.
+ O Motor 1 está fornecendo 1331.87 kW de potência com um consumo específico de 195.81 g/kwh. 
+ Esta diferença de potência e de consumo indica que este motor não está operando de forma satisfatória.
+ Redução de potência pode ser causada por:
+ - Fornecimento insuficiente de combustível (vazamento/restrição)
+ - Combustível incorreto ou contaminado
+ - Sincronização incorreta de injeção
+ - Restrição na admissão de ar
+ - Perda de pressão no turbo carregador
+ - Falha no sistema de alta pressão de combustível
+ - Perda de compressão no motor.
+
+
+ Equilíbrio de Carga
+
+ Rotação Motor 1: 699.88 rpm
+ Potência Motor 1: 1174.16 kW
+
+ Rotação Motor 2: 741.56 rpm
+ Potência Motor 2: 1331.87 kW
+
+ Rotação Equilibrada: 721.16 rpm
+ Potência Equilibrada: 1253.21 kW
+
+ Análise
+
+ Os motores estão em desequilíbrio de rotação.
+ O motor 1 está com uma rotação de 699.88 rpm, enquanto o motor 2 está com uma rotação de 741.56 rpm.
+ Este desequilíbrio afeta a economia de combustível, bem como o desempenho do navio.
+ Motores de um mesmo sistema propulsivo com cargas diferentes conduzem a uma condição onde um deles é mais exigido que o outro,
+ acarretando aumento de consumo e contribuindo para aumentar o desgaste de seus componentes mecânicos,
+ gerando falhas e comprometendo a segurança do navio
+
+
+ Predição de Consumo
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Velocidade de Serviço: 8.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de Consumo total: 404016.28 g/h
+ Predição de consumo para cada motor: 202008.14 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 404016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 5.7319136 nós
+ Predição de velocidade para cada motor: 2.87 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 444016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 8.880174 nós
+ Predição de velocidade para cada motor: 4.44 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 404016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 5.7319136 nós
+ Predição de velocidade para cada motor: 2.87 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 414016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 6.7576423 nós
+ Predição de velocidade para cada motor: 3.38 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 424016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 7.7833724 nós
+ Predição de velocidade para cada motor: 3.89 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 434016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 8.609946 nós
+ Predição de velocidade para cada motor: 4.3 kW
+
+
+ Predição de Consumo
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Velocidade de Serviço: 8.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de Consumo total: 404016.28 g/h
+ Predição de consumo para cada motor: 202008.14 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 434016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 8.609946 nós
+ Predição de velocidade para cada motor: 4.3 kW
+
+
+ Predição de velocidade
+
+ Altura de Onda: 1.8 m
+ Velocidade do Vento: 2.0 m/s
+ Direção do Vento: 45.0°
+ Temperatura Ambiente: 25.0°C
+ Consumo : 434016.0 nós
+ Potência do Motor 1: 1015.0 kW
+ Rotação do Motor 1: 655.0 rpm
+ Potência do Motor 2: 1015.0 kW
+ Rotação do Motor 2: 655.0 rpm
+
+ Predição de velocidade total: 8.609946 nós
+ Predição de velocidade para cada motor: 4.3 kW

@@ -1,0 +1,48 @@
+ Data e hora informadas: 01/01/2023 00:00
+ Trajetória: Em viagem no percurso13
+ Altura de Onda: 1.8 m
+ Velocidade de Vento: 9.2 m/s
+ Velocidade de Serviço: 0.37 nós
+
+ Motor 1
+
+ Potência: 1230.92 kW
+ Rotação: 715.24 rpm
+ Consumo: 196.53 g/kWh
+
+ Análise
+
+ Nesta RPM (715.24 rpm), o motor deveria estar fornecendo 1293.72 kW de potência, com um consumo específico de 198.16 g/kwh.
+ O Motor 1 está fornecendo 1230.92 kW de potência com um consumo específico de 196.53 g/kwh. 
+ Esta diferença de potência e de consumo indica que este motor não está operando de forma satisfatória.
+ Redução de potência pode ser causada por:
+ - Fornecimento insuficiente de combustível (vazamento/restrição)
+ - Combustível incorreto ou contaminado
+ - Sincronização incorreta de injeção
+ - Restrição na admissão de ar
+ - Perda de pressão no turbo carregador
+ - Falha no sistema de alta pressão de combustível
+ - Perda de compressão no motor.
+
+# falta motor 2 
+
+# motores trocados no eq de carga 
+ Equilíbrio de Carga
+
+ Rotação Motor 1: 438.25 rpm
+ Potência Motor 1: 358.81 kW
+
+ Rotação Motor 2: 715.24 rpm
+ Potência Motor 2: 1230.92 kW
+
+ Rotação Equilibrada: 589.28 rpm
+ Potência Equilibrada: 800.51 kW
+
+ Análise
+
+ Os motores estão em desequilíbrio de rotação.
+ O motor 1 está com uma rotação de 438.25 rpm, enquanto o motor 2 está com uma rotação de 715.24 rpm.
+ Este desequilíbrio afeta a economia de combustível, bem como o desempenho do navio.
+ Motores de um mesmo sistema propulsivo com cargas diferentes conduzem a uma condição onde um deles é mais exigido que o outro,
+ acarretando aumento de consumo e contribuindo para aumentar o desgaste de seus componentes mecânicos,
+ gerando falhas e comprometendo a segurança do navio
